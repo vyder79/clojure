@@ -5,3 +5,7 @@
 (deftest a-test
   (testing "FIXME, I fail."
     (is (= 0 1))))
+
+(deftest b-test
+  (testing "foo function."
+    (foo tom)))

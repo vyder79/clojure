@@ -1,2 +1,2 @@
-cmdhistory=["(+ 2 2)" "name" "foo(\\"Hi\\")" "foo" "foo[ddd]" "fo[\\"ddd\\"]" "foo[]" ".foo[]" "foo" "foo \\"sdg\\"" "foo name" "(foo [name])" "(foo name)" "(foo 'name)" "(foo name)"]
+cmdhistory=["(+ 2 2)" "name" "foo(\\"Hi\\")" "foo" "foo[ddd]" "fo[\\"ddd\\"]" "foo[]" ".foo[]" "foo" "foo \\"sdg\\"" "foo name" "(foo [name])" "(foo name)" "(foo 'name)" "(foo name)" "(doc foo)" "(* 2 3)" "(foo \\"abc\\")" "(foo)" "(foo \\"abc\\")" "(take nth 20 (iterate 0 1000\\n                      ))" "(take nth 20 (iterate))"]
 eclipse.preferences.version=1
